@@ -13,7 +13,7 @@ $ cd ~/ros2_ws
 $ ament build --only-packages sparse_bundle_adjustment  
 
 For isolated build  
-$ ament build --isolated --build-tests --symlink-install --only sparse_bundle_adjustment  
+$ ament build --isolated --symlink-install --only sparse_bundle_adjustment  
 
 ## As libraries in other ROS 2.0 pkg  
 Add "find_package(sparse_bundle_adjustment REQUIRED)" in your CMakeLists.txt   
