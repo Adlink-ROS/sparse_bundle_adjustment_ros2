@@ -6,9 +6,9 @@ The original repo (ROS 1.0) was developed at Willow Garage as part of the vslam 
 * HaoChih, LIN (haochih.lin@adlinktech.com)  
 
 ## License  
-BSD License (adhere from original ROS 1.0 sparse_bundle_adjustment pkg)  
+BSD License (adhere to original ROS 1.0 sparse_bundle_adjustment pkg)  
   
-## Compile (examples)      
+## Compile      
 $ cd ~/ros2_ws  
 $ ament build --only-packages sparse_bundle_adjustment  
 
