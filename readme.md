@@ -1,6 +1,7 @@
 # Sparse Bundle Adjustment Library (ROS 2.0)  
 This is ROS 2.0 version pkg for Sparse Bundle Adjustment Library (needed for slam_karto_ros2)  
 The original repo (ROS 1.0) was developed at Willow Garage as part of the vslam stack.  
+(original repo: https://github.com/ros-perception/sparse_bundle_adjustment)  
 
 ## Developer  
 * HaoChih, LIN (haochih.lin@adlinktech.com)  
